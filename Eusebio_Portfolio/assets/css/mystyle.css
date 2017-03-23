@@ -1,0 +1,196 @@
+
+/* 
+#C3EF9E
+#A4E46F
+#59AA16
+#4C9410
+#76C931
+ */
+
+ /* Heinz, Period 4, Graphic Design */
+
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+body {
+	font-size: 1em;
+	font-weight: normal;
+	font-family: Arial, Sans-serif;
+	color: #C3EF9E; /*black*/
+	text-align: left;
+	background-color: #A4E46F;
+	padding: 20;
+	margin: 0 auto;
+	width: 75%;
+	min-width: 720px;
+	background-image: url("http://wallpapercave.com/wp/0OBRwFi.jpg")
+}
+h1 {
+	font-size: 2em;
+	font-weight: bold;
+	color: black;
+	text-align: center;
+	font-family: "Times", Times;
+	padding: 20;
+	margin: auto;
+}
+h2 {
+	padding: 20;
+	margin-left: 5%;
+	margin-right: 5%;
+	border: 2px solid;
+	border-radius: 25px;
+	color: black;
+	background-color: #4C9410;
+}
+
+h3 {
+	padding: 20;
+	margin-left: 5%;
+	margin-right: 5%;
+	border: 2px solid;
+	border-radius: 25px;
+	color: black;
+	background-color: #4C9410;
+}
+
+p{
+	color: white;
+	font-family: "Times New Roman", Times, Sans-serif;
+	padding: 20;
+	margin: auto;
+
+}
+ul{
+	text-align: center;
+	padding: 20;
+	margin-left:10%;
+	margin-right:10%;
+	border: 2px solid black;
+	border-radius: 25px;
+	color: #000000;
+}
+li{
+	color: white;
+	font-size: .8em;
+}
+ol{
+	color: white;
+}
+
+
+}
+div{
+	text-align: center;
+	padding: 20;
+	margin: auto;
+}
+div#skipnav {
+	width:10em;
+	position: center;
+	text-align: center;
+}
+div.info {
+	width: 35%;
+	font-size: 1.2em;
+	float: left;
+}
+
+head {
+	text-align: center;
+	padding: 20;
+	margin: auto;
+}
+p#alert{
+	color: black;
+	font-weight: bold;
+	background: #ffff66;
+	border: 2px solid black;
+	padding: 1em;
+}
+a:link { 
+    color: #ffffff;  
+  }
+  a:hover{ 
+    color: #FF3B3F;
+
+  }
+a:visited{
+	color: #ffffff;
+}
+
+nav {
+	clear: left;
+}
+ /* navigation menu styles */
+nav ul { 
+  list-style-type: none;
+  border: none;
+}
+nav ul li { 
+  float: left;
+  margin-right: 0.5em;
+}
+nav ul li a { 
+  padding: 0.25em 1em;
+  text-decoration: none; /* no underline */
+  background-color: #000000; /* pale bluish white */
+  color: #4C9410; /* dark blue */
+  border: 2px solid black;
+  border-top-left-radius: 1em 1em; /* rounded corner! */
+  border-top-right-radius: 1em 1em; /* another rounded corner! */	 
+}	
+nav ul li a:hover, nav ul li a:focus { 
+  color: black; 
+  background-color: black; 
+  font-weight: bold;
+}
+  button { 
+    font-size: 1.1em;
+    background-color: #EBF5FF;
+    color: #4312AE;
+    border: 2px solid black;
+    box-shadow: 4px 4px 4px #999999;
+  }
+  button:hover, button:focus, button:active { 
+    /* swap colors */
+    color: #EBF5FF;
+    background-color: #4312AE;
+    cursor: pointer; /* displays a hand */
+  }
+
+div#clock {
+	margin:;
+	padding:;
+	border:;
+	font-size:20px;
+	font-family:serif;
+	color:white;
+	background-color:black;
+}
+
+div#myvideo {
+
+	color: black;
+	background-color: #800080;
+
+}
